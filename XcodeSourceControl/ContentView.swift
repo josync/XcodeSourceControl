@@ -10,10 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "heart.fill")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, Josync!")
+            // auth : 로그인 기능 완료
         }
         .padding()
     }
